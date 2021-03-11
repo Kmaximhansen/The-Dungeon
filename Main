@@ -1,0 +1,5 @@
+import java.util.scanner;
+class Main {
+  public static void main(string[] args){
+    System.out.println("to play this game you will be asked to chose your own path through a dungeon to chose an option please enter the lower case letter given for that option!);
+    }
